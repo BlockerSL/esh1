@@ -8,3 +8,4 @@ function sahand()
     window.open("https://awesome-hamilton-876062.netlify.app/");
 
   }
+}
